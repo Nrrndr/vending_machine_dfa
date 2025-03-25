@@ -2,7 +2,7 @@
 cara menggunakan  
 1 baca config dan sesuaikan dengan dipisahkan ", "  
 2 jika ingin tambahkan minuman tambahkan dengan 1 huruf atau diawali dengan "*"  
-3 run program  
+3 run program (python vending_machine.py)   
 4 masukan input sesuai  
   
 States : state yang ada  
