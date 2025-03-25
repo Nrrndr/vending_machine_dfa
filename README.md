@@ -2,7 +2,7 @@
 cara menggunakan  
 1 baca config dan sesuaikan dengan dipisahkan ", "  
 2 jika ingin tambahkan minuman tambahkan dengan 1 huruf atau diawali dengan "*"  
-3 pastikan config dan kode program berada dalam satu folder yang sama
+3 pastikan config dan kode program berada dalam satu folder yang sama   
 4 run program (python vending_machine.py)   
 5 masukan input sesuai  
   
